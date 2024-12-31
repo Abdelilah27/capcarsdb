@@ -15,7 +15,7 @@
       "brand": "Porsche",
       "model": "Porsche Taycan 4S",
       "year": 2024,
-      "mpg": "Equivalent 80 MPGe",
+      "mpg": "19",
       "hp": 562,
       "perf": "0-60 mph in 3.8 sec",
       "image": "https://imagizer.imageshack.com/img923/5518/fbJc5S.png"
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "brand": "Porsche",
-      "model": "911 GT3",
+      "model": 15,
       "year": 2024,
       "mpg": 17,
       "hp": 502,
@@ -85,7 +85,7 @@
       "brand": "Porsche",
       "model": "Cayenne E-Hybrid",
       "year": 2023,
-      "mpg": "Equivalent 22 MPGe",
+      "mpg": 22,
       "hp": 455,
       "perf": "0-60 mph in 4.7 sec",
       "image": "https://imagizer.imageshack.com/img924/7292/rs1IW4.png"
@@ -115,7 +115,7 @@
       "brand": "Porsche",
       "model": "Porsche Taycan Turbo S",
       "year": 2024,
-      "mpg": "Equivalent 79 MPGe",
+      "mpg": 24,
       "hp": 616,
       "perf": "0-60 mph in 2.6 sec",
       "image": "https://imagizer.imageshack.com/img923/699/MUCCaY.png"
